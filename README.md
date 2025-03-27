@@ -52,6 +52,6 @@ Make sure your on Admin Panel then go to agents and click on department. Click o
 />
 </p>
 <p>
-First we'd go to Admin Panel then agents and teams
+First we'd go to Admin Panel then agents and teams. Add new Teams
 </p>
 <br />
