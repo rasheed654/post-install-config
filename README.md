@@ -57,8 +57,6 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <br />
 <p>
 <img width="988" alt="image" src="https://github.com/user-attachments/assets/2f05541b-10c5-4275-9b15-3f23309c7cdc" />
- />
-/>
 </p>
 <p>
 Go to Agent Panel then User and then Click on Add User.
