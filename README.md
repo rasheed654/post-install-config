@@ -68,4 +68,10 @@ Go to Agent Panel then User and then Click on Add User.
 <p>
 First go to the Admin Panel click on Manage then click on SLA. Lastly click on Add New SLA Plan.
 </p>
-
+<p>
+<img width="964" alt="Screenshot 2025-03-26 at 10 47 48 PM" src="https://github.com/user-attachments/assets/88176736-663e-464a-9e93-d7a7aa5e56e9" />
+ />
+</p>
+<p>
+First go to the Admin Panel click on Manage then click on SLA. Lastly click on Add New SLA Plan.
+</p>
