@@ -34,7 +34,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img width="970" alt="Screenshot 2025-03-26 at 9 45 06 PM" src="https://github.com/user-attachments/assets/7a3504a6-2cff-4fd5-b6d1-6f69ebc044f5" />
-/>
 </p>
 <p>
 Login to your OsTicket as admin with username and password. From the admin panel click on agent then roles. lastly you add a new role and give it a name and permissions.
