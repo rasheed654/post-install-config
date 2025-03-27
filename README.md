@@ -66,6 +66,6 @@ Go to Agent Panel then User and then Click on Add User.
  />
 </p>
 <p>
-Go to Agent Panel then User and then Click on Add User.
+First go to the Admin Panel click on Manage then click on SLA. Lastly click on Add New SLA Plan.
 </p>
 
