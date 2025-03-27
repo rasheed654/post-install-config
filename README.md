@@ -74,5 +74,5 @@ First go to the Admin Panel click on Manage then click on SLA. Lastly click on A
  />
 </p>
 <p>
-First go to the Admin Panel click on Manage then click on SLA. Lastly click on Add New SLA Plan.
+In the Admin Panel go to Manage and then Help Topics.
 </p>
