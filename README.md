@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-<h3>Configure Roles(for grouping permissions)</h3>
+<h3>Configure Roles (for grouping permissions)</h3>
 
 <img width="975" alt="Screenshot 2025-04-24 at 7 23 33 PM" src="https://github.com/user-attachments/assets/80053f8a-9280-48e2-8061-18d320fc355e" />
 
