@@ -56,7 +56,7 @@ Make sure your on Admin Panel then go to agents and click on department.
 First we'd go to Admin Panel then agents and teams. Add new Teams
 </p>
 <img width="958" alt="Screenshot 2025-04-24 at 7 52 34 PM" src="https://github.com/user-attachments/assets/793f5653-29f2-4145-ad16-fe4ec38ec732" />
-
+<p>Fill Out the Team Information and Click Create team</p>
 <img width="988" alt="image" src="https://github.com/user-attachments/assets/2f05541b-10c5-4275-9b15-3f23309c7cdc" />
 </p>
 <p>
