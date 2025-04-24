@@ -31,9 +31,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Configure Roles(for grouping permissions)</h3>
 
 <img width="975" alt="Screenshot 2025-04-24 at 7 23 33 PM" src="https://github.com/user-attachments/assets/80053f8a-9280-48e2-8061-18d320fc355e" />
-<p>Login to your OsTicket as admin with username and password. From the admin panel click on Agents then roles.</p>
+
 
 <img width="967" alt="Screenshot 2025-04-24 at 7 26 50 PM" src="https://github.com/user-attachments/assets/f8385410-e1d8-48c1-b479-ede618562e61" />
+<p>Login to your OsTicket as admin with username and password. From the admin panel click on Agents then roles.</p>
 <img width="958" alt="Screenshot 2025-04-24 at 7 29 09 PM" src="https://github.com/user-attachments/assets/04b127d6-aa4d-4272-95e1-8b9253b6ef67" />
 
  <p>lastly you can add a new role and give it a name and permissions.</p>
