@@ -50,16 +50,13 @@ Make sure your on Admin Panel then go to agents and click on department.
 
 <p>Click on add new departments and Fill out the department information form and click Create Department</p>
 <br />
-
-<p>
-<img width="962" alt="image" src="https://github.com/user-attachments/assets/4c109dd8-8762-4e52-b4c7-4706364f4b97" />
-/>
-</p>
+<h3>Configure Teams</h3>
+<img width="961" alt="Screenshot 2025-04-24 at 7 52 16 PM" src="https://github.com/user-attachments/assets/d20c5bfe-48d6-4283-bc72-7891b8d96d84" />
 <p>
 First we'd go to Admin Panel then agents and teams. Add new Teams
 </p>
-<br />
-<p>
+<img width="958" alt="Screenshot 2025-04-24 at 7 52 34 PM" src="https://github.com/user-attachments/assets/793f5653-29f2-4145-ad16-fe4ec38ec732" />
+
 <img width="988" alt="image" src="https://github.com/user-attachments/assets/2f05541b-10c5-4275-9b15-3f23309c7cdc" />
 </p>
 <p>
