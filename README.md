@@ -41,9 +41,8 @@ This tutorial outlines the post-install configuration of the open-source help de
  <p>lastly you can add a new role and give it a name and permissions.</p>
 <br />
 <h3>Configure Departments</h3>
-<p>
-<img width="1022" alt="Screenshot 2025-03-26 at 10 01 27 PM" src="https://github.com/user-attachments/assets/2e9e1404-8022-4f84-a8ec-65692c999b67" />
-</p>
+<img width="958" alt="Screenshot 2025-04-24 at 7 40 18 PM" src="https://github.com/user-attachments/assets/dc389250-5a1d-4da2-8082-cdf5573988b2" />
+
 <p>
 Make sure your on Admin Panel then go to agents and click on department. Click on add new departments
 </p>
