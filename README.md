@@ -48,7 +48,7 @@ Make sure your on Admin Panel then go to agents and click on department.
 </p>
 <img width="963" alt="Screenshot 2025-04-24 at 7 43 03 PM" src="https://github.com/user-attachments/assets/409a4a8f-99ef-4b5f-adaa-28cbbcee7ba8" />
 
-<p>Click on add new departments and Fill out the form and click Create Department</p>
+<p>Click on add new departments and Fill out the department information form and click Create Department</p>
 <br />
 
 <p>
