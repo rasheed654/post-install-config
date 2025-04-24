@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="967" alt="Screenshot 2025-04-24 at 7 26 50 PM" src="https://github.com/user-attachments/assets/f8385410-e1d8-48c1-b479-ede618562e61" />
 <img width="958" alt="Screenshot 2025-04-24 at 7 29 09 PM" src="https://github.com/user-attachments/assets/04b127d6-aa4d-4272-95e1-8b9253b6ef67" />
 
- <p>lastly you add a new role and give it a name and permissions.</p>
+ <p>lastly you can add a new role and give it a name and permissions.</p>
 <br />
 
 <p>
