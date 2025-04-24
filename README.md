@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-
+<h3>Configure Roles</h3>
 <p>
 <img width="970" alt="Screenshot 2025-03-26 at 9 45 06 PM" src="https://github.com/user-attachments/assets/7a3504a6-2cff-4fd5-b6d1-6f69ebc044f5" />
 </p>
