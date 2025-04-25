@@ -93,3 +93,9 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <p>Fill it out and click Add Plan</p>
 </p>
 <h3>Configure Help Topics</h3>
+<img width="961" alt="Screenshot 2025-04-24 at 8 52 09 PM" src="https://github.com/user-attachments/assets/0cf7a3f1-9a73-4df2-8e60-de487751f96f" />
+Admin Panel -> Manage -> Help Topics
+<img width="963" alt="Screenshot 2025-04-24 at 8 52 21 PM" src="https://github.com/user-attachments/assets/7d01fb92-916f-4591-9465-09e8ea34f8b2" />
+<p>Fill it out and click ADD Topic</p>
+
+
