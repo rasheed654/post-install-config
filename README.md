@@ -75,7 +75,8 @@ Go to Agent Panel then User and then Click on Add User.
 <p>
 <img width="964" alt="Screenshot 2025-03-26 at 10 47 48 PM" src="https://github.com/user-attachments/assets/88176736-663e-464a-9e93-d7a7aa5e56e9" />
 <p>Fill out the neccecary information</p>
-<img width="643" alt="Screenshot 2025-04-24 at 8 14 41 PM" src="https://github.com/user-attachments/assets/a18e71ea-d82d-4a1d-859d-a1a5e2b828c1" />
+<img width="643" alt="Screenshot 2025-04-24 at 8 14 41 PM" src="https://github.com/user-attachments/assets/818b7b26-ad31-4536-81d7-e5399b91dca9" />
+
 <p>Set Agent Password</p>
 </p>
 <p>
