@@ -81,6 +81,8 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 
 <h3>Configure Users (Cutomers)</h3>
 <img width="966" alt="Screenshot 2025-04-24 at 8 36 10 PM" src="https://github.com/user-attachments/assets/e69ff2a4-61e7-409a-bf29-b18c3552c967" />
+<img width="646" alt="Screenshot 2025-04-24 at 8 36 44 PM" src="https://github.com/user-attachments/assets/80364f30-81ff-47f9-9f72-90b6e0993abb" />
+
 <p>Agent Panel -> Users -> Add New
 
 </p>
