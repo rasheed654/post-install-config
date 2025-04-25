@@ -73,10 +73,10 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <img width="958" alt="Screenshot 2025-04-24 at 8 27 22 PM" src="https://github.com/user-attachments/assets/363938dd-0fb0-457e-b885-2d496b7af397" />
 <img width="958" alt="Screenshot 2025-04-24 at 8 26 40 PM" src="https://github.com/user-attachments/assets/7aa9fde0-beeb-4fa9-8336-4fc73ac3b5d1" />
 </p>
-<p>Fill out the neccecary information</p>
+
 <img width="643" alt="Screenshot 2025-04-24 at 8 14 41 PM" src="https://github.com/user-attachments/assets/818b7b26-ad31-4536-81d7-e5399b91dca9" />
 
-
+<p>Fill out the neccecary information</p>
 <p>Set Agent Password and click create</p>
 </p>
 <p>
