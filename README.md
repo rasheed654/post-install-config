@@ -92,3 +92,4 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0c55e611-971a-457b-b4cc-0b05f8ef216a" />
 <p>Fill it out and click Add Plan</p>
 </p>
+<h3>Configure Help Topics</h3>
