@@ -66,7 +66,7 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <h3>Configure Agents</h3>
 <img width="966" alt="Screenshot 2025-04-24 at 8 10 34 PM" src="https://github.com/user-attachments/assets/015068f9-b530-4bac-9cbb-e32bceacfd4b" />
 
-<p>In the Admin Panel go Agents. Lastly click on Add New</p>
+<p>In the Admin Panel go Agents. Lastly click on Add New Agent</p>
 <p>
  <img width="960" alt="Screenshot 2025-04-24 at 8 14 10 PM" src="https://github.com/user-attachments/assets/7fd5d388-a751-4418-b688-f25ec425cf8d" />
 
