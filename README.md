@@ -85,4 +85,9 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 
 <p>Agent Panel -> Users -> Add New
 
+<h3>Configure SLA</h3>
+<img width="962" alt="Screenshot 2025-04-24 at 8 43 21 PM" src="https://github.com/user-attachments/assets/cb223c9f-9155-4358-b3b6-c2fece5a61a4" />
+<p>Admin Pamel then Manage and lasltly click SLA</p>
+<img width="962" alt="Screenshot 2025-04-24 at 8 43 21 PM" src="https://github.com/user-attachments/assets/1fd99d24-18c3-4acb-91f0-114d515da094" />
+
 </p>
