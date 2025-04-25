@@ -64,6 +64,9 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 
 <p>Make sure your on the Admin panel, then Settings. next click on User Settings. Make Sure Registration required is unchecked</p>
 <h3>Configure Agents</h3>
+<img width="966" alt="Screenshot 2025-04-24 at 8 10 34 PM" src="https://github.com/user-attachments/assets/015068f9-b530-4bac-9cbb-e32bceacfd4b" />
+
+<p>In the Admin Panel go Agents. Lastly click on Add New</p>
 <p>
 Go to Agent Panel then User and then Click on Add User.
 </p>
