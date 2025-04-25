@@ -68,11 +68,15 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 
 <p>In the Admin Panel go Agents. Lastly click on Add New</p>
 <p>
+ <img width="960" alt="Screenshot 2025-04-24 at 8 14 10 PM" src="https://github.com/user-attachments/assets/7fd5d388-a751-4418-b688-f25ec425cf8d" />
+
 Go to Agent Panel then User and then Click on Add User.
 </p>
 <p>
 <img width="964" alt="Screenshot 2025-03-26 at 10 47 48 PM" src="https://github.com/user-attachments/assets/88176736-663e-464a-9e93-d7a7aa5e56e9" />
-
+<p>Fill out the neccecary information</p>
+<img width="643" alt="Screenshot 2025-04-24 at 8 14 41 PM" src="https://github.com/user-attachments/assets/a18e71ea-d82d-4a1d-859d-a1a5e2b828c1" />
+<p>Set Agent Password</p>
 </p>
 <p>
 First go to the Admin Panel click on Manage then click on SLA. Lastly click on Add New SLA Plan.
