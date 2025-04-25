@@ -62,7 +62,7 @@ First we'd go to Admin Panel then agents and teams. Add new Teams
 <h3>Allow Anyone To Create Tickets</h3>
 <img width="1090" alt="Screenshot 2025-04-24 at 8 05 37 PM" src="https://github.com/user-attachments/assets/e6207e13-5d92-40af-85e3-e81b53eeb592" />
 
-<p>Make sure your on the Admin panel, the Settings. then User Settings. Make Sure Registration required is unchecked</p>
+<p>Make sure your on the Admin panel, then Settings. next click on User Settings. Make Sure Registration required is unchecked</p>
 <p>
 Go to Agent Panel then User and then Click on Add User.
 </p>
